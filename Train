@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>邱承泰的履歷</title>
+        <link rel="stylesheet" href="CSS.css">
+    </head>
+    <body>
+        <div style="padding: 40px; background-color: rgb(155, 138, 117);"></div>
+             <div id="p">
+                <span style="font-size: 250%;"><b>名字:</b></span> <span style="font-size: 200%;">X承泰<hr/></span>
+
+                <span style="font-size: 250%;"><b>性別:</b></span> <span style="font-size: 200%;">男<hr/></span>
+
+                <span style="font-size: 250%;"><b>生日:</b></span> <span style="font-size: 200%;">20XX年X月X日<hr/></span>
+
+                <span style="font-size: 250%;"><b>興趣:</b></span> <span style="font-size: 200%;">觀賞影音活動<hr/></span>
+            
+                <span style="font-size: 250%;"><b>專長:</b></span> <span style="font-size: 200%;">電腦使用<hr/></span>
+            
+                <span style="font-size: 250%;"><b>學歷:</b></span> <span style="font-size: 200%;">亞XXX大學<hr/></span>
+            
+                <span style="font-size: 250%;"><b>工作經歷:</b></span> <span style="font-size: 200%;">優XXX全認證<hr/></span>
+
+                <span style="font-size: 250%;"><b>自傳:</b></span> <div style="font-size: 200%;">這是一個練習HTML的履歷範本999999999999</div>
+            </div>
+        
+    </body>
+</html>
